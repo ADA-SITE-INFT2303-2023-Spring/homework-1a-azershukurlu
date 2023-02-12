@@ -1,0 +1,37 @@
+Online parking reservation
+System Request Statement / Planning Phase 
+(Homework No.1A)
+
+Student: Azar Shukurlu 
+Instructor: Dr. Araz Yusubov
+
+Submitted in partial fulfillment of the requirements of the INFT 2303: Systems Analysis and Design course project
+
+
+
+
+GitHub repository	https://github.com/ADA-SITE-INFT2303-2023-Spring/<name of the repository>
+Version date	Version information
+<Date>	12.02.23
+<Date>	12.02.23 
+
+
+ 
+
+1.	Project sponsor
+Azar Shukurlu on behalf of  Baku Transportation Agency
+
+2.	Business Need
+This project is created to make easy to find and reserve a parking place for car or any vehicle in online format with the help of website or application before to reach here.
+-As a driver, when I reach to the any place, I see that it is not easy to find a parking place every time for a car or any vehicle. Generally, when people visit somewhere, they are not aware of every time from the density of people, cars. That is why it makes traffic in the parking area of cars. As a solution, they are waiting for leaving of any car and replace its area to park or looking for another parking place near to his or her destination. All of these happens because of being unware of density of cars. 
+
+3.	Business Requirements
+Using this system over the web, drivers will be able to know density of cars in parking area:
+-Search any place for car.
+-To reserve a place before going or reaching there.
+-Because every car that is in parking area has a limit to stay here, drivers will be able to see which place will be free to park after how many minutes or hour.
+4.	Business Value
+Firstly, we expect this system will prevent crowd and make easy organization’s work. Then the percentage of losing customer drivers will decrease at this time benefit from purchased parking areas will increase.
+
+5.	Special Issues or Constraints:
+Baku Transportation Agency views this as a strategic system, to prevent crowd in city, which comes from parking place, this project should be completed as soon as possible. 
